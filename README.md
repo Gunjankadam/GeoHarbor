@@ -51,7 +51,7 @@ lib/
 Some parts of this project contain sensitive or proprietary information, so they haven't been made public on GitHub.  
 If you require access for review, collaboration, or learning purposes, please contact us at kasammapara13@gmail.com OR kadamgunjan27@gmail.com.
 
-Note: You may require to build a backend for this project on a different framework. We have built an entire working backend on node.js. If you require access, please contact us at kasammapara13@gmail.com OR kadamgunjan27@gmail.com.
+Note: You may require to build a backend for this project on a different framework. The backend service may provide user authentication and OTP-based registration and password recovery functionalities for the GeoHarbor platform and it may handle uploading and parsing of geospatial files (KML, KMZ, GeoJSON, Shapefiles) into GeoJSON format via REST APIs. We have built an entire working backend on node.js. If you require access, please contact us at kasammapara13@gmail.com OR kadamgunjan27@gmail.com.
 
 ---
 
