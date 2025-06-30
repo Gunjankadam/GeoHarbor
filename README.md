@@ -1,22 +1,22 @@
-# 🌐 GeoHarbor
+# GeoHarbor
 
 **GeoHarbor** is a Flutter-based mobile application designed to manage and visualize GIS (Geographic Information System) data. It provides features such as GIS file uploads, spatial layer analysis, feedback submission, authentication, and user account settings — all within a sleek, responsive interface.
 
 ---
 
-## 📱 Features
+## Features
 
-- 🔐 User Authentication (Login, Register, Forgot Password)
-- 📄 Upload GIS layers (GeoJSON, KML, etc.)
-- 🧠 Perform analysis and operations on spatial data
-- ⚙️ Profile management and secure logout
-- ✉️ In-app feedback submission with email integration
-- 🌈 Modern UI with animations and gradient styles
-- 🧽 Bottom navigation for seamless navigation
+-  User Authentication (Login, Register, Forgot Password)
+-  Upload GIS layers (GeoJSON, KML, etc.)
+-  Perform analysis and operations on spatial data
+-  Profile management and secure logout
+-  In-app feedback submission with email integration
+-  Modern UI with animations and gradient styles
+-  Bottom navigation for seamless navigation
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 lib/
@@ -46,9 +46,14 @@ lib/
 │   └── main.dart          # App entry point
 ```
 
+### Important Directories Not Uploaded
+
+Some parts of this project contain sensitive or proprietary information, so they haven't been made public on GitHub.  
+If you require access for review, collaboration, or learning purposes, please contact us at kasammapara13@gmail.com OR kadamgunjan27@gmail.com.
+
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -79,7 +84,7 @@ flutter run
 
 ---
 
-## 🔪 Build APK
+## Build APK
 
 ```bash
 flutter build apk --release
@@ -90,29 +95,30 @@ APK path:\
 
 ---
 
-## 📵 Download
+## Download
 
 You can download the latest APK directly or scan the QR code below:
-<img src="https://github.com/copyninja277/Geoharbor-flutter/blob/master/scanner.jpeg?raw=true" alt="Home Page" width="280"/>
 
-### 🔺 [Download Latest APK](https://drive.google.com/file/d/1r1NxAqzahL4m5XGZ9IjApX86ipe6XjMZ)
+<img src="https://github.com/copyninja277/Geoharbor-flutter/blob/master/scanner.jpeg?raw=true" width="300" height="300" />
+
+### [Download Latest APK](https://drive.google.com/file/d/1r1NxAqzahL4m5XGZ9IjApX86ipe6XjMZ)
 
 ---
 
-## 🌟 Screenshots
+## Screenshots
 
 <table>
   <tr>
     <td align="center">
-      🏠 <strong>Home Page</strong><br>
+      <strong>Home Page</strong><br>
       <img src="https://github.com/copyninja277/Geoharbor-flutter/blob/master/homepage.jpg?raw=true" alt="Home Page" width="280"/>
     </td>
     <td align="center">
-      🗻 <strong>Map Page</strong><br>
+      <strong>Map Page</strong><br>
       <img src="https://github.com/copyninja277/Geoharbor-flutter/blob/master/mappage.jpg?raw=true" alt="Map Page" width="280"/>
     </td>
     <td align="center">
-      🔍 <strong>Upload View</strong><br>
+      <strong>Upload View</strong><br>
       <img src="https://github.com/copyninja277/Geoharbor-flutter/blob/master/uploadpage.jpg?raw=true" alt="Upload View" width="280"/>
     </td>
   </tr>
@@ -120,19 +126,14 @@ You can download the latest APK directly or scan the QR code below:
 
 ---
 
-## 📬 Feedback and Support
+## Feedback and Support
 
 Feedbacks submitted through the app are automatically emailed to the admin using SMTP integration via the `mailer` package.
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for more info.
-
----
-
-## 👨‍💼 Author
+## Author
 
 **Kasam Mapara**\
 📧 [kasammapara13@gmail.com](mailto\:kasammapara13@gmail.com)\
