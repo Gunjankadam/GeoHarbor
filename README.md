@@ -101,7 +101,7 @@ APK path:\
 
 You can download the latest APK directly or scan the QR code below:
 
-<img src="https://github.com/copyninja277/Geoharbor-flutter/blob/master/scanner.jpeg?raw=true" width="300" height="300" />
+<img src="https://github.com/Gunjankadam/Geoharbor/blob/main/frame.png?raw=true" width="300" height="300" />
 
 ### [Download Latest APK](https://drive.google.com/file/d/1r1NxAqzahL4m5XGZ9IjApX86ipe6XjMZ)
 
