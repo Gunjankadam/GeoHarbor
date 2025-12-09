@@ -113,15 +113,15 @@ You can download the latest APK directly or scan the QR code below:
   <tr>
     <td align="center">
       <strong>Home Page</strong><br>
-      <img src="https://github.com/copyninja277/Geoharbor-flutter/blob/master/homepage.jpg?raw=true" alt="Home Page" width="280"/>
+      <img src="https://github.com/Gunjankadam/GeoHarbor/blob/main/homepage.jpg" alt="Home Page" width="280"/>
     </td>
     <td align="center">
       <strong>Map Page</strong><br>
-      <img src="https://github.com/copyninja277/Geoharbor-flutter/blob/master/mappage.jpg?raw=true" alt="Map Page" width="280"/>
+      <img src="https://github.com/Gunjankadam/GeoHarbor/blob/main/mappage.jpg" alt="Map Page" width="280"/>
     </td>
     <td align="center">
       <strong>Upload View</strong><br>
-      <img src="https://github.com/copyninja277/Geoharbor-flutter/blob/master/uploadpage.jpg?raw=true" alt="Upload View" width="280"/>
+      <img src="https://github.com/Gunjankadam/GeoHarbor/blob/main/uploadpage.jpg" alt="Upload View" width="280"/>
     </td>
   </tr>
 </table>
