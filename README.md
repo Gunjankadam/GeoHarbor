@@ -101,9 +101,9 @@ APK path:\
 
 You can download the latest APK directly or scan the QR code below:
 
-<img src="https://github.com/Gunjankadam/Geoharbor/blob/main/frame.png?raw=true" width="300" height="300" />
+<img src="https://github.com/Gunjankadam/Geoharbor/blob/main/QRcode.png?raw=true" width="300" height="300" />
 
-### [Download Latest APK](https://drive.google.com/file/d/1r1NxAqzahL4m5XGZ9IjApX86ipe6XjMZ)
+### [Download Latest APK](https://drive.google.com/drive/u/0/folders/1zKGt5QELGYMAvxEDtFAlO_ZMARttLd-A)
 
 ---
 
@@ -122,7 +122,7 @@ The base map in the analysis view uses MapTiler tiles.
     </td>
     <td align="center">
       <strong>Map Page</strong><br>
-      <img src="https://github.com/Gunjankadam/GeoHarbor/blob/main/mappage.jpg" alt="Map Page" width="280"/>
+      <img src="https://github.com/Gunjankadam/GeoHarbor/blob/main/Mappage.png" alt="Map Page" width="280"/>
     </td>
     <td align="center">
       <strong>Upload View</strong><br>
