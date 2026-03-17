@@ -43,7 +43,7 @@ lib/
 │   ├── register_page.dart
 │   ├── settings_page.dart
 │   ├── upload_selection.dart
-│   └── main.dart          # App entry point
+└── main.dart              # App entry point
 ```
 
 ### Important Directories Not Uploaded
