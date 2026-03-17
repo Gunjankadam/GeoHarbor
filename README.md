@@ -107,6 +107,11 @@ You can download the latest APK directly or scan the QR code below:
 
 ---
 
+### Map Data
+The base map in the analysis view uses MapTiler tiles.
+
+---
+
 ## Screenshots
 
 <table>
