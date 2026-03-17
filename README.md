@@ -146,5 +146,3 @@ Feedbacks submitted through the app are automatically emailed to the admin using
 🔗 [Github](https://github.com/Gunjankadam)
 
 ---
-
-> Made with ❤️ in Flutter for GIS enthusiasts.
